@@ -9,5 +9,7 @@
 - _troubleshoot_
 
 ## Admin tools
+This tools can work only if the command prompt is started as admin.
 - _tpm_
 - _gedit_ (working only on Windows 10 Pro)
+- _securityid_
