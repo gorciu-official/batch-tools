@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Currently all of the releases are supported.
+You can only get support for the 5 latest versions 
 
 ## Reporting a Vulnerability
 
