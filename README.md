@@ -2,6 +2,8 @@
 
 **Batch Tools** are the tools writed in batch that can help you in command prompt.
 
+> [!CAUTION]
+> This project has been archived and the updates stopped.
 
 ## Power commands
 - _poweroff_
